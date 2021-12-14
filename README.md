@@ -2,4 +2,4 @@
 
 
 
-big sur + catalina
+for big sur + catalina
